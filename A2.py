@@ -1,6 +1,6 @@
 # 1) user input => low and bound *
 # 2) random => [a, b] *
-# 3) loop => condition=> guess_count=5 => feedback
+# 3) loop => condition=> guess_count=5 => feedback *
 import random
 
 try:
